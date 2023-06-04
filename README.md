@@ -12,7 +12,7 @@ The different species are
  'copper tail'
  
  Basic Model:
- We built a CNN Model to classify the chess images with the specified conditions. 
+ We built a CNN Model to classify the butterfly images with the specified conditions. 
 
 The total parameters used is 294296 which is < 300000.
 Totally 3 layers are used as mentioned:
